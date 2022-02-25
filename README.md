@@ -15,3 +15,7 @@ Nesse projeto foram abordados diversos aspectos da linguagem e de lógica de pro
 •	Uso de API com AJAX
 
 Entre outros.
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Site Aparecida Nutricionista] (https://images2.imgbox.com/8a/12/6ASw92IG_o.jpg)
